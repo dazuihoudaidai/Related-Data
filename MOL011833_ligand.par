@@ -1,0 +1,220 @@
+* ---- 
+* Built parameters for MOL011833_ligand.mol2 
+*    by user root     Tue Feb 27 06:28:26 UTC 2024 
+* ---- 
+*
+
+BONDS
+CB   CB    401.068     1.3740 
+CB   OR    404.019     1.3760 
+CB   HCMM  381.853     1.0840 
+CB   C5A   372.641     1.4360 
+C5A  C5B   512.256     1.3770 
+C5A  OFUR  416.469     1.3600 
+C5B  C=O   380.558     1.4310 
+C5B  C5B   310.390     1.4180 
+C=O  OR    417.476     1.3550 
+C=O  O=C   931.963     1.2220 
+C5B  CB    443.384     1.3790 
+CB   C=C   360.335     1.4490 
+CR   C=O   301.539     1.4920 
+CR   CR    306.432     1.5080 
+CR   HCMM  342.991     1.0930 
+CR   CB    356.737     1.4860 
+C=C  C=C   684.039     1.3330 
+C=C  HCMM  372.066     1.0830 
+C=C  C=O   328.526     1.4680 
+OR   HOCC  564.143     0.9730 
+CR   OR    363.214     1.4180 
+OR   HOCO  532.766     0.9810 
+
+ANGLES
+CB   CB   CB     48.145    119.9770 
+CB   CB   OR     69.663    116.4950 
+CB   CB   HCMM   40.517    120.5710 
+CB   CB   C5A    64.337    120.1900 
+CB   C5A  C5B    53.399    131.7840 
+CB   C5A  OFUR   87.366    114.2110 
+C5B  C5A  OFUR   74.484    110.1080 
+C5A  C5B  C5B    62.322    108.2390 
+C5A  C5B  C=O    59.588    124.8900 
+C5B  C5B  C=O    55.701    128.2860 
+C5B  C5B  CB     61.459    136.0870 
+C5A  C5B  CB     65.201    117.9660 
+C5A  CB   OR     65.201    117.9660 
+CB   CB   C=C    51.240    119.6950 
+C5B  CB   CB     30.441    112.5670 
+C5B  CB   HCMM   37.638    121.4460 
+CB   CB   CR     57.788    120.4190 
+C5B  C=O  OR     91.181    111.9930 
+C5B  C=O  O=C    77.075    124.1330 
+OR   C=O  O=C    83.120    124.4250 
+C=O  CR   CR     55.917    107.5170 
+C=O  CR   OR     37.998    104.1120 
+C=O  CR   HCMM   46.778    108.3850 
+CR   CR   OR     71.390    108.1330 
+CR   CR   HCMM   45.770    110.5490 
+OR   CR   HCMM   56.205    108.5770 
+CR   C=O  O=C    67.504    124.4100 
+CR   C=O  OR     75.060    109.7160 
+CB   CR   CR     54.406    108.6170 
+CB   CR   HCMM   45.122    109.4910 
+HCMM CR   HCMM   37.134    108.8360 
+CB   C=C  C=C    43.035    117.5080 
+CB   C=C  HCMM   35.335    117.4230 
+C=C  C=C  HCMM   38.502    121.0040 
+C=C  C=C  C=O    39.221    111.2970 
+C=O  C=C  HCMM   35.047    117.2910 
+C=C  C=O  O=C    67.360    122.6230 
+C=C  C=O  OR     67.072    106.5100 
+CB   OR   HOCC   52.247    105.4090 
+C5A  OFUR C5A    91.612    106.3130 
+C=O  OR   CR     66.424    108.0550 
+C=O  OR   HOCO   41.956    111.9480 
+
+DIHEDRALS
+CB   CB   CB   CB       3.500  2   180.00 
+CB   CB   CB   HCMM     3.500  2   180.00 
+CB   CB   OR   HOCC     1.401  2   180.00 
+CB   CB   CB   C5A      3.500  2   180.00 
+CB   CB   CB   OR       3.500  2   180.00 
+CB   CB   C5A  C5B      0.900  2   180.00 
+CB   CB   C5A  OFUR     0.900  2   180.00 
+CB   C5A  C5B  C5B      0.000  1     0.00 
+CB   C5A  C5B  C=O      0.000  1     0.00 
+CB   C5A  OFUR C5A      0.000  1     0.00 
+C5A  CB   CB   HCMM     1.000  2   180.00 
+C5A  C5B  C5B  C5A      3.500  2   180.00 
+C5A  C5B  C5B  CB       3.500  2   180.00 
+C5A  C5B  C=O  OR       1.250  2   180.00 
+C5A  C5B  C=O  O=C      1.250  2   180.00 
+C5A  OFUR C5A  C5B      3.500  2   180.00 
+C5B  C5B  C5A  OFUR     3.500  2   180.00 
+C5B  C5B  CB   CB       3.500  2   180.00 
+C5B  C5B  CB   HCMM     3.500  2   180.00 
+C5B  C=O  OR   CR       2.750  2   180.00 
+C5B  C5B  C=O  OR       1.250  2   180.00 
+C5B  C5B  C=O  O=C      1.250  2   180.00 
+C5B  C5A  CB   OR       3.500  2   180.00 
+C5B  CB   CB   CB       3.500  2   180.00 
+C5B  CB   CB   C=C      3.500  2   180.00 
+C5A  C5B  C5B  C=O      3.500  2   180.00 
+C5A  C5B  CB   CB       3.500  2   180.00 
+C5A  C5B  CB   HCMM     3.500  2   180.00 
+C5A  CB   OR   HOCC     1.600  2   180.00 
+CB   C5A  C5B  CB       3.500  2   180.00 
+CB   CB   CB   C=C      3.500  2   180.00 
+CB   CB   C=C  C=C      0.771  2   180.00 
+CB   CB   C=C  C=C      0.217  3     0.00 
+CB   CB   C=C  HCMM     0.654  2   180.00 
+CB   CB   C=C  HCMM    -0.178  3     0.00 
+CB   C=C  C=C  C=O      0.900  2   180.00 
+CB   C=C  C=C  HCMM     0.900  2   180.00 
+CB   C5B  C5B  C=O      3.500  2   180.00 
+CB   C5B  C5A  OFUR     3.500  2   180.00 
+CB   CR   CR   C=O      0.150  3     0.00 
+CB   CR   CR   OR       0.150  3     0.00 
+CB   CR   CR   HCMM     0.195  3     0.00 
+CB   CB   CR   CR       0.225  2   180.00 
+CB   CB   CR   HCMM    -0.210  2   180.00 
+CB   CB   CR   HCMM     0.196  3     0.00 
+CB   CB   CB   CR       3.500  2   180.00 
+C=O  C5B  C5A  OFUR     0.000  1     0.00 
+C=O  OR   CR   C=O      0.100  3     0.00 
+C=O  OR   CR   CR      -0.274  1     0.00 
+C=O  OR   CR   CR       0.160  3     0.00 
+C=O  OR   CR   HCMM     0.286  1     0.00 
+C=O  OR   CR   HCMM    -0.152  3     0.00 
+CR   C=O  OR   CR      -0.622  1     0.00 
+CR   C=O  OR   CR       2.741  2   180.00 
+CR   C=O  OR   CR       0.182  3     0.00 
+CR   OR   C=O  O=C      0.341  1     0.00 
+CR   OR   C=O  O=C      3.592  2   180.00 
+CR   OR   C=O  O=C     -0.468  3     0.00 
+C=O  CR   CR   HCMM    -0.128  1     0.00 
+C=O  CR   CR   HCMM     0.029  2   180.00 
+CR   CB   CB   HCMM     3.500  2   180.00 
+CR   CR   C=O  O=C      0.412  1     0.00 
+CR   CR   C=O  O=C      0.070  2   180.00 
+CR   CR   C=O  O=C      0.163  3     0.00 
+CR   CR   C=O  OR      -0.059  1     0.00 
+CR   CR   C=O  OR      -0.167  2   180.00 
+CR   CR   C=O  OR       0.101  3     0.00 
+C=C  CB   CB   HCMM     1.000  2   180.00 
+C=C  C=C  C=O  O=C      0.181  1     0.00 
+C=C  C=C  C=O  O=C      0.989  2   180.00 
+C=C  C=C  C=O  OR      -0.071  1     0.00 
+C=C  C=C  C=O  OR       0.733  2   180.00 
+C=C  C=O  OR   CR       2.750  2   180.00 
+C=O  C=C  C=C  HCMM     0.900  2   180.00 
+CR   C=O  OR   HOCO    -0.583  1     0.00 
+CR   C=O  OR   HOCO     2.539  2   180.00 
+CR   C=O  OR   HOCO    -0.273  3     0.00 
+OR   CB   CB   OR       3.500  2   180.00 
+OR   CB   CB   HCMM     3.500  2   180.00 
+OFUR C5A  CB   OR       3.500  2   180.00 
+OR   CR   C=O  O=C     -0.198  1     0.00 
+OR   CR   C=O  O=C      0.365  2   180.00 
+OR   CR   C=O  O=C     -0.070  3     0.00 
+OR   CR   C=O  OR       0.224  1     0.00 
+OR   CR   C=O  OR       0.326  2   180.00 
+OR   CR   C=O  OR       0.159  3     0.00 
+OR   CR   CR   HCMM    -0.327  1     0.00 
+OR   CR   CR   HCMM     0.536  2   180.00 
+OR   CR   CR   HCMM     0.140  3     0.00 
+O=C  C=O  CR   HCMM     0.330  1     0.00 
+O=C  C=O  CR   HCMM    -0.704  2   180.00 
+O=C  C=O  CR   HCMM     0.154  3     0.00 
+OR   C=O  CR   HCMM    -0.312  2   180.00 
+OR   C=O  CR   HCMM     0.165  3     0.00 
+O=C  C=O  C=C  HCMM     1.250  2   180.00 
+OR   C=O  C=C  HCMM     1.250  2   180.00 
+O=C  C=O  OR   HOCO     0.831  1     0.00 
+O=C  C=O  OR   HOCO     3.076  2   180.00 
+O=C  C=O  OR   HOCO    -0.029  3     0.00 
+HCMM CB   CB   HCMM     3.500  2   180.00 
+HCMM CR   CR   HCMM     0.142  1     0.00 
+HCMM CR   CR   HCMM    -0.693  2   180.00 
+HCMM CR   CR   HCMM     0.157  3     0.00 
+HCMM C=C  C=C  HCMM     6.000  2   180.00 
+
+IMPROPER
+CB   CB   CB   OR       3.454  0     0.00 
+CB   CB   CB   HCMM     1.079  0     0.00 
+CB   C5A  CB   CB       2.519  0     0.00 
+C5A  C5B  CB   OFUR     3.598  0     0.00 
+C5B  C5B  C5A  C=O      2.879  0     0.00 
+C5B  CB   C5B  C5A     -0.792  0     0.00 
+C5A  OFUR C5B  CB       3.598  0     0.00 
+CB   CB   C5A  OR       2.519  0     0.00 
+CB   CB   CB   C=C      2.231  0     0.00 
+C=C  C=C  CB   HCMM     1.223  0     0.00 
+C=C  C=O  C=C  HCMM     0.864  0     0.00 
+C=O  OR   C5B  O=C      9.356  0     0.00 
+CR   CR   OR   C=O      0.000  0     0.00 
+CR   C=O  OR   HCMM     0.000  0     0.00 
+CR   CB   CR   HCMM     0.000  0     0.00 
+CB   CB   CR   CB       2.879  0     0.00 
+CB   OR   CB   CB       3.454  0     0.00 
+C=O  OR   CR   O=C     10.147  0     0.00 
+C=O  OR   C=C  O=C      9.140  0     0.00 
+CR   CR   OR   HCMM     0.000  0     0.00 
+CB   CB   C5B  HCMM     0.864  0     0.00 
+CR   HCMM OR   HCMM     0.000  0     0.00 
+
+NONBONDED nbxmod  5 atom cdiel shift vatom vdistance vswitch - 
+cutnb 14.0 ctofnb 12.0 ctonnb 10.0 eps 1.0 e14fac 1.0 wmin 1.5 
+CB      0.000000  -0.070000     1.992400    
+C5A     0.000000  -0.050000     2.040000    
+C5B     0.000000  -0.050000     2.040000    
+C=O     0.000000  -0.110000     2.000000    
+CR      0.000000  -0.055000     2.175000   0.000000  -0.010000     1.900000    
+C=C     0.000000  -0.068000     2.090000    
+OR      0.000000  -0.152100     1.770000    
+OFUR    0.000000  -0.200000     1.850000    
+O=C     0.000000  -0.120000     1.700000   0.000000  -0.120000     1.400000    
+HCMM    0.000000  -0.022000     1.320000    
+HOCC    0.000000  -0.046000     0.224500    
+HOCO    0.000000  -0.046000     0.224500    
+
+
