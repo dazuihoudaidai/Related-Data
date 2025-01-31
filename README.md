@@ -9,7 +9,7 @@ Create and activate the  environment.
 PDBbind database for taining and validation (http://www.pdbbind.org.cn/download.php)  
 ## Usage：  
 ### 1. Dataset downloading  
-Firstly，download the PDBbind Version 2016 from http://www.pdbbind.org.cn/download.php, and the mol2 files of natural products in TCMSP database.  
+Firstly，download the PDBbind Version 2016 from http://www.pdbbind.org.cn/download.php, and the mol2 files of natural products in Traditional Chinese Medicine Systems Pharmacology database (TCMSP)(https://www.tcmsp-e.com).  
 And orgnize them as trainingset and validationset  
 ### 2. Environment building  
 `conda env create -f Environment.yml`  
